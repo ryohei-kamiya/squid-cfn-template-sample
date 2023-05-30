@@ -1,0 +1,6 @@
+.env
+.DS_Store
+volumes
+etc/squid/*.crt
+etc/squid/*.key
+etc/squid/*.csr
