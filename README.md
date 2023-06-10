@@ -13,4 +13,4 @@
 
 1. Copy .env-example .env and edit it.
 2. Run ./build.sh
-3. Run ./deploy.sh
+3. Run ./deploy.sh -e
